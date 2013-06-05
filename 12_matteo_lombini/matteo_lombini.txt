@@ -1,0 +1,20 @@
+﻿Nome del satellite: Sonda BOOMERanG
+Autore: Matteo Lombini
+
+### Storia
+
+La sonda ha effettuato tre misurazioni nel 1997, 1998 e nel 2003.
+
+### Osservazioni
+
+I dati dell'esperimento BOOMERanG del 1997 e 1998, combinati con altri dati riguardanti la costante di Hubble, hanno dato come risultato finale che la geometria dell'universo è piatta. Questo risultato supporta la prova dell'esistenza dell'*energia oscura*. 
+
+I dati del volo del 2003 del BOOMERanG hanno dato come risultato un segnale con un altissimo rapporto segnale-rumore, utili per la mappatura dell'anisotropia della temperatura della radiazione di fondo e per la misura della polarizzazione della radiazione. Inoltre durante il volo antartico del 1998, ripetuto e migliorato nel 2003, le “mongolfiere” di BOOMERanG misurarono per la prima volta le oscillazioni del plasma primordiale, dimostrando l'assenza di curvatura dell'universo e stimando con una accuratezza mai raggiunta prima la densità totale di massa ed energia del cosmo. In questo modo l’esperimento fornì indirettamente la prova che *l’Universo sta accelerando*.
+
+### Curiosità
+
+L'esperimento BOOMERanG (Balloon Observations Of Millimetric Extragalactic Radiation and Geophysics) è un esperimento che ha misurato la *radiazione cosmica di fondo* di una porzione dello spazio, tramite tre voli sub-orbitali di un pallone di alta quota. Il pallone è stato fatto girare attorno al polo sud sfruttando il vortice polare ritornando così al punto di partenza dopo due settimane, da qui il nome di boomerang.
+È stato il primo esperimento in grado di fornire un'immagine ad alta definizione delle anisotropie della temperatura della radiazione cosmica di fondo. L'esperimento ha utilizzato dei *bolometri* per il rilevamento della radiazione di fondo; questi strumenti sono stati mantenuti ad una temperatura di 0,27 K (−272,88 °C). Secondo la legge di Debye i materiali, a tale temperatura, presentano una capacità termica molto bassa; le microonde provenienti dalla radiazione di fondo causano un forte aumento di temperatura, proporzionale all'intensità dell'onda. Queste variazioni di temperatura vengono quindi rilevate da termometri ad alta risoluzione.
+
+
+
