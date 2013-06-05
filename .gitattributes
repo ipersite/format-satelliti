@@ -1,2 +1,3 @@
 *.pdf binary -delta
 *.ods binary -delta
+*.jpg binary -delta
