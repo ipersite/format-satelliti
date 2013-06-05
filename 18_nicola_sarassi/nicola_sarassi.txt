@@ -1,0 +1,10 @@
+Nome del satellite: Copernicus (OAO 3)
+Autore: Nicola Sarassi  
+
+### Storia 
+Fu lanciato il 21 agosto 1972 e fu chiamato Copernico perché ricorreva il 500º anniversario della nascita di Niccolò Copernico. Il satellite venne lanciato dalla NASA, ma la missione fu effettuata in collaborazione tra istituzioni scientifiche degli USA e del Regno Unito. Il satellite era equipaggiato con un telescopio per l'ultravioletto con un diametro di 80 cm e un rilevatore di raggi X. Il satellite Copernico operò fino al febbraio 1981 ed effettuò centinaia di osservazioni. Permise di scoprire parecchie stelle pulsar a lungo periodo, cioè con periodi di rotazione di molti minuti anziché di pochi secondi come normalmente avviene.
+
+
+### Osservazioni 
+
+I pannelli solari sono stati fissati con un angolo di 34 gradi rispetto all'asse di osservazione del telescopio, e sono stati mantenuti entro i 30 gradi del Sole. Questa limitazione ha determinato la visione di alcune parti del cielo che sono visibili solo in alcune parti dell'anno. Gli strumenti astronomici sono stati co-allineati, con il telescopio UV residente nel cilindro centrale del satellite. 
