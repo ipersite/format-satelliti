@@ -1,0 +1,13 @@
+Nome del satellite: OAO 2
+Autore: Bettinelli Chiara
+
+### Storia
+L'OAO 2 fu lanciato il **7 dicembre 1968** con un razzo vettore Atlas-Centaur da Cape Canaveral Air Force Station. Il satellite aveva 11 telescopi per le osservazioni nell'ultravioletto e restò in funzione fino al gennaio 1973.L'OAO 2 è stato uno di una serie di osservatori astronomici automatici.
+
+### Osservazioni
+L'OAO 2, noto anche come **Stargazer**, permise di scoprire che le comete sono circondate da un enorme alone di idrogeno che si estende per centinaia di migliaia di chilometri; inoltre effettuò osservazioni su **stelle novae** in luce ultravioletta.
+
+### Curiosità
+Il programma Orbiting Astronomical Observatory (OAO) (in italiano Osservatorio Astronomico Orbitante) era basato su una famiglia di quattro satelliti artificiali che dovevano essere lanciati dalla NASA tra il 1966 e il 1972. Essi dovevano effettuare le prime osservazioni in alta risoluzione di numerosi oggetti nella banda dell'ultravioletto. Anche se due missioni fallirono, il successo delle altre due fece prendere coscienza alla comunità degli astronomi dei benefici degli osservatori spaziali e condusse in seguito alla creazione del telescopio spaziale Hubble.
+
+

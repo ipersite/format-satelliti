@@ -1,0 +1,12 @@
+﻿Nome del satellite: ARGOS
+Autore: Ballista Nicola
+
+### Storia
+**Argos** è un satellite basato su un sistema che raccoglie, elabora e diffonde *dati ambientali* da piattaforme fisse e mobili in tutto il mondo. Ciò che rende Argos unico è la capacità di individuare geograficamente la fonte dei dati ovunque sulla Terra utilizzando l'**effetto Doppler**.
+Argos è stata fondata nel 1978 e da allora, ha fornito i dati per la ricerca ambientale e le comunità di protezione che, in molti casi, era altrimenti irrealizzabile. Il sistema è pienamente provato e altamente affidabile. Molte remote stazioni meteorologiche automatiche riportano i loro dati via Argos. Argos è un componente chiave di molti programmi di ricerca a livello mondiale tra cui: programma Tropical Atmosphere Ocean-Global (TOGA), Tagging of Pacific pelagici (TOPP), World Ocean Circulation Experiment (WOCE), Argo e altri.
+
+### Osservazioni
+Dalla fine degli anni 1980 gli Argos trasmettitori sono stati regolarmente distribuiti su un gran numero di *mammiferi marini* e tartarughe di mare e continua a rappresentare lo strumento più importante per il monitoraggio dei movimenti a lunga distanza di specie sia costiere che oceaniche. Mediante il caricamento di dati provenienti, per esempio, da trasduttori di pressione, è stato possibile ottenere anche un patrimonio di conoscenze circa l'immersione e il comportamento alimentare di animali in natura.
+
+### Curiosità
+Argos è stato sviluppato nell'ambito di un *Memorandum of Understanding* (MOU) tra il Centro Nazionale di Studi Spaziali (CNES, l'agenzia spaziale francese), la National Aeronautics and Space Administration (NASA, USA) e la National Oceanic and Atmospheric Administration (NOAA, USA ).
