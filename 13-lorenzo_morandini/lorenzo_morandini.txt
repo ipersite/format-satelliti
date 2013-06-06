@@ -10,8 +10,6 @@ Lo scopo fondamentale della missione era studiare le emissioni cosmiche di raggi
 
 L'asso nella manica di BeppoSAX era proprio la copertura spettrale (la gamma dei livelli di energia delle emissioni osservabili) particolarmente ampia, che andava da 0,1 a oltre 200 KeV. Si trattava della prima missione capace di studiare sorgenti di raggi X su un intervallo energetico così ampio. In questo modo SAX ha potuto contribuire allo studio di una grande varietà di fenomeni cosmici come sorgenti galattiche compatte, nuclei galattici attivi, ammassi di galassie, resti di supernovae, galassie normali, stelle, gamma ray burst. 
 
-Il satellite è riuscito ad ottenere la prima immagine X di lampo gamma, permettendo di svelarne numerosi segreti. Ad oggi, grazie anche a questo apporto, si ritiene che queste esplosioni di raggi gamma, seconde solo al big bang per valori di energie in gioco, si verifichino ai confini dell'universo conosciuto.
-
 In sei anni di vita operativa ha effettuato oltre 33.000 orbite. Nel 1998 al team scientifico fu conferito il Premio Bruno Rossi, da parte della Società Astronomica Americana. L'importanza della missione consiste soprattutto nell'aver aperto la strada ad un nuovo ed interessante campo di ricerca astronomico.
 
 Il satellite è rientrato nell'atmosfera il 29 aprile 2003, precipitando nell'Oceano Pacifico.
@@ -21,8 +19,7 @@ Nel 1997 dopo aver rivelato un gamma-ray burst (GRB 970228[1]), venne comandato 
 
 Utilizzando le osservazioni di Chandra e di BeppoSAX è stato scoperto che la provenienza di molti GRB è associata a zone di formazione stellare.
 
-### Curiosità
-La grande competenza dimostrata in questo campo dalla comunità scientifica e tecnologica italiana (proseguita con la messa in orbita del satellite per astronomia gamma AGILE) ha garantito all'Italia un ruolo di primo piano anche nella missione SWIFT, con cui la NASA spera di risolvere definitivamente il mistero dei gamma-ray burst.
+
 
 
 
